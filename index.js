@@ -20,6 +20,5 @@ class BoardMember {
       return `Hi, my name is ${name}. I am from ${homestate}, and I was trained in ${training}.`
     }
   }
-}
 
 class ceo extends boardMember
