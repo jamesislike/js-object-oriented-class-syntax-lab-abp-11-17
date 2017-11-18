@@ -20,3 +20,5 @@ class BoardMember {
     }
   }
 }
+
+class ceo extends boardMember
